@@ -3,24 +3,15 @@ header {
   }
   
   header, footer {
-    background: #58378C;
+    background: rgb(182, 182, 241);
     color: white;
     padding: 16px;
-  }
-  
-  #logo-header {
-    font-size: 32px;
-  }
-  
-  a {
-    text-decoration: none;
-    color: white;
   }
   
   main {
-    background-color: #EF7D19;
+    background-color: #f0f331;
     padding: 16px;
-    color: white;
+    color: rgb(111, 111, 211);
     font-family: 'Lucida Sans', Verdana, sans-serif;
   }
   
