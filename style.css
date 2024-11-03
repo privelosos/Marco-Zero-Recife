@@ -18,5 +18,19 @@ header {
   img {
     margin: 32px;
   }
+ /* Aplicação das propriedades flex box */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
   
+  ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  li, .rede-social {
+    margin-left: 48px;
+  }
   
