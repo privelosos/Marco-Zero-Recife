@@ -1,6 +1,6 @@
 header {
-    font-family: "Roboto", sans-serif;
-  }
+    font-family: 'Roboto', sans-serif;
+      }
   
   header, footer {
     background: rgb(182, 182, 241);
@@ -12,7 +12,7 @@ header {
     background-color: #f0f331;
     padding: 16px;
     color: rgb(111, 111, 211);
-    font-family: 'Lucida Sans', Verdana, sans-serif;
+    font-family: 'Itim', sans-serif;
   }
   
   img {
